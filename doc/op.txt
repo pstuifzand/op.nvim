@@ -294,7 +294,7 @@ Highlighting Groups                    For colorscheme authors, you can use the
 - `OpSidebarIconDefault` - all other icons in the sidebar (e.g. item category icons)
 
 
-                                                                 *op-Security*
+                                                                *op-Security2*
 
 Security                               In order to implement key mappings on
                                        the sidebar, the item’s title, ID,
